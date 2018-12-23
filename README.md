@@ -4,14 +4,14 @@ This is a module that gives you the area of various figures when you call its fu
 
 In Node :
 
-let area = require('area-of-figures')
+    let area = require('area-of-figures')
 
 Examples:
 
     area.square(2);  //4
     area.circle(2);  // 12.56
 
-functions available:
+Functions available:
 
     square(side)
   
@@ -28,3 +28,5 @@ functions available:
     sector(radius,theta)
   
 
+Happy Coding !!! 
+Cheers :) 
