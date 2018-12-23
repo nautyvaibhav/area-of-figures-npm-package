@@ -1,0 +1,11 @@
+{
+  "name": "area-of-figures",
+  "version": "1.0.0",
+  "description": "this is a module that gives you the area of various figures when you call its function with an argument(s)",
+  "main": "area.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naughtyvaibhav",
+  "license": "ISC"
+}
