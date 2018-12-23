@@ -14,11 +14,17 @@ Examples:
 functions available:
 
   square(side)
+  
   circle(radius)
+  
   triangle(base,height)
+  
   trapezium(a,base,height)
+  
   ellipse(a,b)
+  
   parallelogram(a,b)
+  
   sector(radius,theta)
   
 
