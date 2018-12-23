@@ -8,23 +8,23 @@ let area = require('area-of-figures')
 
 Examples:
 
-  area.square(2);  //4
-  area.circle(2);  // 12.56
+    area.square(2);  //4
+    area.circle(2);  // 12.56
 
 functions available:
 
-  square(side)
+    square(side)
   
-  circle(radius)
+    circle(radius)
   
-  triangle(base,height)
+    triangle(base,height)
   
-  trapezium(a,base,height)
+    trapezium(a,base,height)
   
-  ellipse(a,b)
+    ellipse(a,b)
   
-  parallelogram(a,b)
+    parallelogram(a,b)
   
-  sector(radius,theta)
+    sector(radius,theta)
   
 
